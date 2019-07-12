@@ -1,5 +1,5 @@
 ﻿id="plugin.program.defwizard"
-version="0.3"
+version="0.4"
 zip="https://d3fau4kodi.000webhostapp.com/plugin.program.defwizard-0.3.zip"
 
 name="Beta 6"
